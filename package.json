@@ -1,5 +1,5 @@
 {
-  "name": "ChineseName",
+  "name": "chinese-name",
   "version": "0.1.0",
   "description": "random chinese name generator",
   "main": "index.js",
