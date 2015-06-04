@@ -1,6 +1,9 @@
 # ChineseName
 random chinese name generator
 
+##API
+#random([familyName])
+
 ##use in nodejs
 1. install
 `npm install chinese-name`
