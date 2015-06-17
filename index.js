@@ -3,7 +3,6 @@
  */
 (function () {
     var ChineseName = {
-        version: "0.1.0",
         random: random
     };
 
